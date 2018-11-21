@@ -1,0 +1,30 @@
+{
+  "name": "array-prefix",
+  "version": "1.0.0",
+  "description": "Filter list of words prefixed with given string",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bredele/array-prefix.git"
+  },
+  "keywords": [
+    "starts",
+    "prefix",
+    "array",
+    "find",
+    "search",
+    "lookup"
+  ],
+  "author": "Olivier Wietrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/array-prefix/issues"
+  },
+  "homepage": "https://github.com/bredele/array-prefix#readme",
+  "devDependencies": {
+    "tape": "^4.9.1"
+  }
+}
