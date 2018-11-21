@@ -28,3 +28,11 @@ test('should filter array and sort output', assert => {
     ['hector', 'hell', 'hello']
   )
 })
+
+test('should return empty array if no string prefixed with given input', assert => {
+  assert.plan(1)
+  assert.deepEqual(
+    prefix('ol', ['hello', 'hector', 'hell', 'world', 'worm']),
+    []
+  )
+})
