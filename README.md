@@ -10,7 +10,7 @@ Filter list of words prefixed with given string (ideal for autocompletion)
 
 
 ```js
-const find = require('array-prefix')
+import find from 'array-prefix'
 
 prefix('he', ['hello', 'hector', 'hell', 'world', 'worm'])
 // => ['hello', 'hector', 'hell']
