@@ -1,9 +1,7 @@
 # array-prefix
 
-[![Build Status](https://travis-ci.org/bredele/array-prefix.svg?branch=master)](https://travis-ci.org/bredele/array-prefix)
 [![NPM](https://img.shields.io/npm/v/array-prefix.svg)](https://www.npmjs.com/package/array-prefix)
 [![Downloads](https://img.shields.io/npm/dm/array-prefix.svg)](http://npm-stat.com/charts.html?package=array-prefix)
-[![pledge](https://bredele.github.io/contributing-guide/community-pledge.svg)](https://github.com/bredele/contributing-guide/blob/master/guidelines.md)
 
 Filter list of words prefixed with given string (ideal for autocompletion)
 
@@ -26,20 +24,8 @@ prefix('he', ['hello', 'hector', 'hell', 'world', 'worm'], true)
 ## Installation
 
 ```shell
-npm install array-prefix --save
+npm install array-prefix
 ```
-
-[![NPM](https://nodei.co/npm/array-prefix.png)](https://nodei.co/npm/array-prefix/)
-
-
-## Question
-
-For questions and feedback please use our [twitter account](https://twitter.com/bredeleca). For support, bug reports and or feature requests please make sure to read our
-<a href="https://github.com/bredele/contributing-guide/blob/master/guidelines.md" target="_blank">community guideline</a> and use the issue list of this repo and make sure it's not present yet in our reporting checklist.
-
-## Contribution
-
-array-prefix is an open source project and would not exist without its community. If you want to participate please make sure to read our <a href="https://github.com/bredele/contributing-guide/blob/master/guidelines.md" target="_blank">guideline</a> before making a pull request. If you have any array-prefix related project, component or other let everyone know in our wiki.
 
 ## License
 
