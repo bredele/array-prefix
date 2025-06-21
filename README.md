@@ -24,7 +24,7 @@ prefix('he', ['hello', 'hector', 'hell', 'world', 'worm'], true)
 ## Installation
 
 ```sh
-$ npm install array-prefix
+npm install array-prefix
 ```
 
 ## License
