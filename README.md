@@ -23,8 +23,8 @@ prefix('he', ['hello', 'hector', 'hell', 'world', 'worm'], true)
 
 ## Installation
 
-```shell
-npm install array-prefix
+```sh
+$ npm install array-prefix
 ```
 
 ## License
